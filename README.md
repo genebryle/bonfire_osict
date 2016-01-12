@@ -1,2 +1,2 @@
-# bonfire_osict
-My project
+# Bonfire OSICT
+My test project
